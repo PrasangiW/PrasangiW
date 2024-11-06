@@ -15,7 +15,7 @@
 ## 👨‍💻 About Me
 
 😊 I’m Prasangi  
-👦🏻 I'm a student at [Your University/Institute Name]  
+👦🏻 I'm a student at Horizon Campus  
 👀 I’m interested in Software Development, AI/ML, UI/UX Design, and more  
 🌱 Currently pursuing studies in Information Technology  
 🕺 I love collaborating on software projects, machine learning models, and innovative UI/UX designs  
