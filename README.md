@@ -22,7 +22,6 @@
 📫 Email me at prasangiws@gmail.com
 💬 Message me on WhatsApp: 070-5615184
 
-
 ## 🛠 Tech Stack
 
 <div align="center">
