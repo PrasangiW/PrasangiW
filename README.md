@@ -3,8 +3,7 @@
 <div align="center">
   
 [![GitHub followers](https://img.shields.io/github/followers/PrasangiW?style=social)](https://github.com/PrasangiW)
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourusername?style=social)](https://twitter.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourusername)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/prasangi-weerasingha/)
 
 </div>
 
