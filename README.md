@@ -68,22 +68,13 @@
 
 ---
 
-## 🎯 Latest Projects
-
-- [Project 1](https://github.com/PrasangiW/project1) - Brief description of the project
-- [Project 2](https://github.com/PrasangiW/project2) - Brief description of the project
-- [Project 3](https://github.com/PrasangiW/project3) - Brief description of the project
-
----
-
 ## 📫 Connect with Me
 
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=firefox)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=firefox)]([https://yourportfolio.com](https://github.com/PrasangiW))
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prasangiws@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasangi-weerasingha/)
 
 </div>
 
