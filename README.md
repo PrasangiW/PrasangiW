@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <div align="center">
-
-[![GitHub followers](https://img.shields.io/github/followers/PrasangiW?style=social&cacheSeconds=3600)](https://github.com/PrasangiW)
+  
+[![GitHub followers](https://img.shields.io/github/followers/SureshPriyankara9902?style=social&v=1)](https://github.com/PrasangiW)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/prasangi-weerasingha/)
 
 </div>
