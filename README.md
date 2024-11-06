@@ -21,7 +21,7 @@
 🕺 I love collaborating on software projects, machine learning models, and innovative UI/UX designs  
 💞 Looking to work on web development, AI solutions, and user-centered designs  
 📫 Email me at prasangiws@gmail.com
-💬 Message me on WhatsApp: your-phone-number  
+💬 Message me on WhatsApp: 070-5615184
 
 ## 🛠 Tech Stack
 
