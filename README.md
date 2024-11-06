@@ -20,7 +20,7 @@
 🌱 Currently pursuing studies in Information Technology  
 🕺 I love collaborating on software projects, machine learning models, and innovative UI/UX designs  
 💞 Looking to work on web development, AI solutions, and user-centered designs  
-📫 Email me at your-email@example.com  
+📫 Email me at prasangiws@gmail.com
 💬 Message me on WhatsApp: your-phone-number  
 
 ## 🛠 Tech Stack
